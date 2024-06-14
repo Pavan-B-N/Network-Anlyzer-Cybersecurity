@@ -1,0 +1,5 @@
+Flask
+socket
+requests
+python-nmap
+ipaddress

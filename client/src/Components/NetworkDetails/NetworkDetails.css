@@ -1,0 +1,30 @@
+.details-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+.detail{
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #2d2b2b;  
+    width: 200px;
+    margin: 10px;
+}
+.detail  div{
+    background-color: #2d2b2b;
+}
+.detail-header{
+    color: #76ABAE;
+}
+.detail-content{
+    font: 1.4em sans-serif;
+}
+.copy-icon{
+    padding: 5px;
+    cursor: pointer;
+}
+.detail-content-box{
+    display: flex;
+    justify-content: space-between;
+}

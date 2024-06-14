@@ -1,0 +1,29 @@
+.scan-target-screen{
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.input-ip{
+    display: flex;
+    align-items: center;
+    width: 70%;
+    padding: 8px;
+    background-color: #2d2b2b;
+    border-radius: 8px;
+    margin: auto;
+}
+.input-ip input{
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #2d2b2b;
+}
+.scan-btn{
+    border: none;
+    outline: none;
+    padding: 7px;
+    background-color: #0D7377;
+    border-radius: 5px;
+    cursor: pointer;
+}

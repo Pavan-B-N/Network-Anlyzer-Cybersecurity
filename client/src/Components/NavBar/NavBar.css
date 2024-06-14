@@ -1,0 +1,18 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+.navigations{
+    display: flex;
+    gap: 25px;   
+}
+.nav-link{
+    text-decoration: none;
+    margin: 3px;
+}
+.app-title{
+    font-weight: bold;
+    margin-left: 20px;
+}
