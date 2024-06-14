@@ -36,6 +36,7 @@ The Network Analyzer is a web-based application designed to facilitate comprehen
 - **Requests**: For making HTTP requests to external services to obtain public IP addresses.
 - **ipaddress**: For handling and manipulating IP address information.
 
+# Preview of the Application
 ![preview_img](Preview/Host%20Discovery%20-%20Home.png)
 ![preview_img](Preview/ScanTarget.png)
 
